@@ -1,0 +1,2 @@
+# For-writing
+Daily writing.
